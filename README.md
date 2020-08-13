@@ -10,3 +10,9 @@ Le ResNet permet essentielement de guider le modèle vu qu'il a été entrainé 
 Enfin le decodeur se modélise à l'aide de couche de déconvolution (UpSampling des images).
 
 ![alt text](https://raw.githubusercontent.com/baldassarreFe/deep-koalarization/master/assets/our_net.png)
+
+Source du réseau de neuronnes : https://arxiv.org/pdf/1712.03400.pdf
+
+Webographie :   https://medium.com/@emilwallner/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d
+                https://arxiv.org/abs/1712.03400
+                http://cs231n.stanford.edu/reports/2016/pdfs/219_Report.pdf
