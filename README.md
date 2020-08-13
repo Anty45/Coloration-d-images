@@ -6,7 +6,7 @@ Deux méthodes ont été utilisées :
 Ces couches serviront d'encodage. On raccomode ces couches avec le décodeur (décrit plus bas)
 * La seconde se base sur un convolutional auto-encodeur entrainé en parralèle d'un resnet18 v2
 Le ResNet permet essentielement de guider le modèle vu qu'il a été entrainé au préalable sur ImageNet.
-![alt text](https://raw.githubusercontent.com/baldassarreFe/deep-koalarization/master/assets/our_net.png)
+![alt text](https://raw.githubusercontent.com/Anty45/Coloration-d-images/master/Koalarization.png)
 
 Enfin le decodeur se modélise à l'aide de couche de déconvolution (UpSampling des images).
 
