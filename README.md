@@ -8,3 +8,5 @@ Ces couches serviront d'encodage. On raccomode ces couches avec le décodeur (d�
 Le ResNet permet essentielement de guider le modèle vu qu'il a été entrainé au préalable sur ImageNet.
 
 Enfin le decodeur se modélise à l'aide de couche de déconvolution (UpSampling des images).
+
+![alt text](https://raw.githubusercontent.com/baldassarreFe/deep-koalarization/master/assets/our_net.png)
